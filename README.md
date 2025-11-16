@@ -1,8 +1,10 @@
 # 📊 Sales Data Pipeline – ETL with Python & PostgreSQL
 
-This repository contains a small but realistic **ETL (Extract–Transform–Load) pipeline** for sales data, built as part of my Data Engineering learning track.
+This repository contains my **first data engineering project** : a simple but complete ETL (Extract–Transform–Load) pipeline for processing sales data.  
+The pipeline extracts raw CSV files, cleans and transforms them using Python, validates the data, and loads the results into a PostgreSQL **staging table** and an optional **data warehouse** built using SQL scripts.
 
-The pipeline reads raw CSV files, cleans and transforms the data, validates basic quality rules, and loads the result into a **PostgreSQL staging table**.
+This project represents my starting point in data engineering, and I will continue improving it as I learn.
+
 
 ---
 
@@ -61,3 +63,150 @@ sales_data_pipeline/
 └── staging.sql                 # DDL for the staging table
 ├── requirements.txt
 └── README.md
+
+
+## 📘 How to Use This Project
+
+Follow these steps to run the ETL pipeline and reproduce the results on your own machine.
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/sales_data_pipeline.git
+cd sales_data_pipeline
+
+
+---
+
+2️⃣ Create and Activate a Virtual Environment (Recommended)
+
+python -m venv .venv
+# Windows
+.\.venv\Scripts\activate
+# macOS/Linux
+source .venv/bin/activate
+
+
+---
+
+3️⃣ Install Required Dependencies
+
+pip install -r requirements.txt
+
+
+---
+
+4️⃣ Set Up Database Credentials
+
+Create a local .env file in the project root:
+
+DB_PASSWORD=your_postgres_password
+
+
+
+---
+
+5️⃣ Configure the Pipeline
+
+Copy the example config file:
+
+cp config/config.example.json
+
+Then edit:
+
+{
+    "db_name": "your_database",
+    "db_user": "postgres",
+    "db_host": "localhost",
+    "db_port": 5432,
+    "raw_data_path": "data/raw"
+}
+
+
+---
+
+6️⃣ Add Raw CSV Files
+
+Place your datasets inside:
+
+data/raw/
+    sales_2024.csv
+    sales_2025.csv
+
+Column names should match those expected in transform.py.
+
+
+---
+
+7️⃣ Create the Staging Table
+
+Run this SQL in PostgreSQL:
+
+psql -U postgres -d your_database -f sql/day7/staging.sql
+
+
+---
+
+8️⃣ Run the ETL Pipeline
+
+python main.py
+
+This will:
+
+1. Extract raw CSVs
+
+
+2. Clean and transform the data
+
+
+3. Validate column types + nulls + duplicates
+
+
+4. Load everything into w4d7_staging
+
+
+5. Save logs to logs/pipeline.log
+
+
+
+
+---
+
+🏛 Data Warehouse Layer (Optional)
+
+Inside the dwh/ folder:
+
+dwh.sql – creates fact + dimension tables
+
+dwh_population.sql – populates dimensions and fact tables
+
+dwh_optimization.sql – adds indexes and performance tuning
+
+
+Run them in order:
+
+psql -U postgres -d your_database -f dwh/dwh.sql
+psql -U postgres -d your_database -f dwh/dwh_population.sql
+psql -U postgres -d your_database -f dwh/dwh_optimization.sql
+
+
+---
+
+🧭 Pipeline Architecture (Simple Diagram)
+
+CSV Files
+   │
+   ▼
+extract.py → transform.py → validate.py → load.py
+                                          │
+                                          ▼
+                               PostgreSQL (staging)
+                                          │
+                                          ▼
+                                       DWH Scripts
+                                (fact + dimension tables)
+
+
+---
