@@ -27,7 +27,7 @@ The pipeline reads raw CSV files, cleans and transforms the data, validates basi
 sales_data_pipeline/
 │
 ├── config/
-│   ├── config.json             # Local config
+│   ├── config.json             # Local config (ignored) 
 │   └── config.example.json     # Template config for others
 │
 ├── data/
