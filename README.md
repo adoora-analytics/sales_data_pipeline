@@ -81,20 +81,16 @@ cd sales_data_pipeline
 ---
 
 2️⃣ Create and Activate a Virtual Environment (Recommended)
-
+# Windows 
+```bash
 python -m venv .venv
-# Windows
-.\.venv\Scripts\activate
-# macOS/Linux
-source .venv/bin/activate
-
-
+```
 ---
 
 3️⃣ Install Required Dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -112,7 +108,7 @@ DB_PASSWORD=your_postgres_password
 
 Copy the example config file:
 
-cp config/config.example.json
+config/config.example.json
 
 Then edit:
 
@@ -143,15 +139,16 @@ Column names should match those expected in transform.py.
 7️⃣ Create the Staging Table
 
 Run this SQL in PostgreSQL:
-
+```psql
 psql -U postgres -d your_database -f sql/day7/staging.sql
-
+```
 
 ---
 
 8️⃣ Run the ETL Pipeline
-
+```bash
 python main.py
+```
 
 This will:
 
@@ -186,11 +183,11 @@ dwh_optimization.sql – performance tuning
 
 
 Run them in order:
-
+```bash
 psql -U postgres -d your_database -f dwh/dwh.sql
 psql -U postgres -d your_database -f dwh/dwh_population.sql
 psql -U postgres -d your_database -f dwh/dwh_optimization.sql
-
+```
 
 ---
 
@@ -209,3 +206,4 @@ extract.py → transform.py → validate.py → load.py
                                 (fact + dimension tables)
 
 
+---
