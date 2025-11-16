@@ -48,9 +48,6 @@ sales_data_pipeline/
 ├── logs/
 │   └── pipeline.log            # Log output (ignored in git)
 │
-├── sql/
-│   └── day7/
-│       └── staging.sql         # DDL for the staging table
 │
 ├── utils/
 │   ├── __init__.py
@@ -61,5 +58,6 @@ sales_data_pipeline/
 ├── .env                        # Local secrets (ignored)
 ├── .gitignore
 ├── main.py                     # Orchestrates the ETL steps
+└── staging.sql                 # DDL for the staging table
 ├── requirements.txt
 └── README.md
