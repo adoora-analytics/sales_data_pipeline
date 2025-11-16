@@ -43,7 +43,7 @@ sales_data_pipeline/
 ├── etl/
 │   ├── __init__.py
 │   ├── extract.py              # Reads CSVs into DataFrames
-│   ├── transform.py            # Cleans, normalises, enriches data
+│   ├── transform.py            # Cleans, normalises, enriches data (my cleaning was minimal though)
 │   ├── validate.py             # Data quality checks
 │   └── load.py                 # Loads into PostgreSQL staging table
 │
