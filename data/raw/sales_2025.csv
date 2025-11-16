@@ -1,0 +1,433 @@
+customer_id,product_id,date_id,sale_id,customer_name,email,region,quantity,revenue,product_name,category,price,order_date,order_month,order_year
+4,3,2,13,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,14,2,14,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,25,2,15,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,36,2,16,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,3,2,17,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,14,2,18,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,25,2,19,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,36,2,20,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,3,2,21,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,14,2,22,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,25,2,23,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,36,2,24,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,3,2,25,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,14,2,26,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,25,2,27,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,36,2,28,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,3,2,29,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,14,2,30,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,25,2,31,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,36,2,32,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,3,2,33,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,14,2,34,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,25,2,35,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,36,2,36,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+1,4,3,37,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,15,3,38,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,26,3,39,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,37,3,40,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,4,3,41,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,15,3,42,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,26,3,43,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,37,3,44,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,4,3,45,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,15,3,46,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,26,3,47,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,37,3,48,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+7,1,4,49,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,12,4,50,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,23,4,51,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,34,4,52,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,1,4,53,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,12,4,54,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,23,4,55,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,34,4,56,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,1,4,57,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,12,4,58,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,23,4,59,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,34,4,60,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+8,10,5,61,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,21,5,62,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,32,5,63,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,43,5,64,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,10,5,65,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,21,5,66,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,32,5,67,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,43,5,68,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,10,5,69,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,21,5,70,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,32,5,71,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,43,5,72,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,10,5,73,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,21,5,74,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,32,5,75,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,43,5,76,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,10,5,77,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,21,5,78,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,32,5,79,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,43,5,80,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,10,5,81,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,21,5,82,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,32,5,83,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,43,5,84,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+2,7,9,145,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,18,9,146,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,29,9,147,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,40,9,148,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,7,9,149,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,18,9,150,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,29,9,151,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,40,9,152,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,7,9,153,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,18,9,154,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,29,9,155,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,40,9,156,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,7,9,157,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,18,9,158,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,29,9,159,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,40,9,160,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,7,9,161,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,18,9,162,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,29,9,163,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,40,9,164,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,7,9,165,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,18,9,166,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,29,9,167,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,40,9,168,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+5,9,10,169,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,20,10,170,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,31,10,171,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,42,10,172,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,9,10,173,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,20,10,174,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,31,10,175,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,42,10,176,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,9,10,177,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,20,10,178,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,31,10,179,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,42,10,180,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+4,3,13,229,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,14,13,230,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,25,13,231,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,36,13,232,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,3,13,233,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,14,13,234,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,25,13,235,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,36,13,236,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,3,13,237,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,14,13,238,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,25,13,239,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,36,13,240,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,3,13,241,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,14,13,242,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,25,13,243,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,36,13,244,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,3,13,245,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,14,13,246,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,25,13,247,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,36,13,248,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,3,13,249,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,14,13,250,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,25,13,251,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,36,13,252,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+1,4,14,253,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,15,14,254,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,26,14,255,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,37,14,256,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,4,14,257,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,15,14,258,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,26,14,259,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,37,14,260,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,4,14,261,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,15,14,262,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,26,14,263,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,37,14,264,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+7,1,15,265,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,12,15,266,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,23,15,267,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,34,15,268,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,1,15,269,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,12,15,270,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,23,15,271,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,34,15,272,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,1,15,273,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,12,15,274,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,23,15,275,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,34,15,276,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+8,10,16,277,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,21,16,278,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,32,16,279,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,43,16,280,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,10,16,281,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,21,16,282,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,32,16,283,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,43,16,284,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,10,16,285,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,21,16,286,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,32,16,287,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,43,16,288,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,10,16,289,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,21,16,290,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,32,16,291,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,43,16,292,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,10,16,293,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,21,16,294,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,32,16,295,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,43,16,296,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,10,16,297,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,21,16,298,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,32,16,299,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,43,16,300,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+2,7,20,361,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,18,20,362,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,29,20,363,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,40,20,364,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,7,20,365,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,18,20,366,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,29,20,367,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,40,20,368,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,7,20,369,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,18,20,370,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,29,20,371,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,40,20,372,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,7,20,373,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,18,20,374,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,29,20,375,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,40,20,376,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,7,20,377,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,18,20,378,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,29,20,379,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,40,20,380,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,7,20,381,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,18,20,382,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,29,20,383,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,40,20,384,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+5,9,21,385,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,20,21,386,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,31,21,387,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,42,21,388,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,9,21,389,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,20,21,390,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,31,21,391,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,42,21,392,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,9,21,393,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,20,21,394,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,31,21,395,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,42,21,396,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+4,3,24,445,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,14,24,446,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,25,24,447,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,36,24,448,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,3,24,449,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,14,24,450,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,25,24,451,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,36,24,452,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,3,24,453,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,14,24,454,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,25,24,455,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,36,24,456,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,3,24,457,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,14,24,458,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,25,24,459,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,36,24,460,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,3,24,461,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,14,24,462,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,25,24,463,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,36,24,464,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,3,24,465,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,14,24,466,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,25,24,467,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,36,24,468,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+1,4,25,469,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,15,25,470,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,26,25,471,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,37,25,472,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,4,25,473,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,15,25,474,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,26,25,475,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,37,25,476,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,4,25,477,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,15,25,478,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,26,25,479,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,37,25,480,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+7,1,26,481,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,12,26,482,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,23,26,483,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,34,26,484,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,1,26,485,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,12,26,486,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,23,26,487,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,34,26,488,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,1,26,489,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,12,26,490,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,23,26,491,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,34,26,492,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+8,10,27,493,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,21,27,494,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,32,27,495,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,43,27,496,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,10,27,497,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,21,27,498,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,32,27,499,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,43,27,500,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,10,27,501,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,21,27,502,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,32,27,503,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,43,27,504,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,10,27,505,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,21,27,506,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,32,27,507,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,43,27,508,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,10,27,509,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,21,27,510,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,32,27,511,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,43,27,512,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,10,27,513,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,21,27,514,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,32,27,515,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,43,27,516,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+2,7,31,577,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,18,31,578,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,29,31,579,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,40,31,580,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,7,31,581,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,18,31,582,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,29,31,583,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,40,31,584,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,7,31,585,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,18,31,586,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,29,31,587,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,40,31,588,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,7,31,589,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,18,31,590,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,29,31,591,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,40,31,592,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,7,31,593,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,18,31,594,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,29,31,595,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,40,31,596,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,7,31,597,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,18,31,598,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,29,31,599,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,40,31,600,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+5,9,32,601,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,20,32,602,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,31,32,603,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,42,32,604,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,9,32,605,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,20,32,606,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,31,32,607,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,42,32,608,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,9,32,609,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,20,32,610,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,31,32,611,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,42,32,612,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+4,3,35,661,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,14,35,662,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,25,35,663,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+4,36,35,664,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,3,35,665,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,14,35,666,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,25,35,667,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+6,36,35,668,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,3,35,669,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,14,35,670,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,25,35,671,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+14,36,35,672,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,3,35,673,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,14,35,674,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,25,35,675,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+16,36,35,676,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,3,35,677,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,14,35,678,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,25,35,679,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+24,36,35,680,Charlie & Co,charlie&co@gmail.com,South,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,3,35,681,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,14,35,682,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,25,35,683,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+26,36,35,684,Charlie & Co,charlie&co@gmail.com,North,2,258.00,24in Monitor,Displays,129.00,2025-02-14,2,2025
+1,4,36,685,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,15,36,686,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,26,36,687,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+1,37,36,688,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,4,36,689,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,15,36,690,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,26,36,691,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+11,37,36,692,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,4,36,693,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,15,36,694,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,26,36,695,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+21,37,36,696,Giga Stores,gigastores@gmail.com,West,3,117.00,Gaming Mouse,Accessories,39.00,2025-02-03,2,2025
+7,1,37,697,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,12,37,698,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,23,37,699,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+7,34,37,700,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,1,37,701,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,12,37,702,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,23,37,703,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+17,34,37,704,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,1,37,705,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,12,37,706,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,23,37,707,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+27,34,37,708,Alice Ltd,aliceltd@gmail.com,West,5,42.50,USB-C Cable,Accessories,8.50,2025-03-02,3,2025
+8,10,38,709,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,21,38,710,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,32,38,711,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+8,43,38,712,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,10,38,713,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,21,38,714,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,32,38,715,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+10,43,38,716,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,10,38,717,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,21,38,718,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,32,38,719,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+18,43,38,720,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,10,38,721,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,21,38,722,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,32,38,723,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+20,43,38,724,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,10,38,725,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,21,38,726,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,32,38,727,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+28,43,38,728,Beta Corp,betacorp@gmail.com,East,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,10,38,729,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,21,38,730,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,32,38,731,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+30,43,38,732,Beta Corp,betacorp@gmail.com,North,1,139.00,USB-C Dock,Accessories,139.00,2025-01-21,1,2025
+2,7,42,793,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,18,42,794,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,29,42,795,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+2,40,42,796,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,7,42,797,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,18,42,798,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,29,42,799,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+3,40,42,800,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,7,42,801,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,18,42,802,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,29,42,803,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+12,40,42,804,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,7,42,805,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,18,42,806,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,29,42,807,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+13,40,42,808,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,7,42,809,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,18,42,810,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,29,42,811,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+22,40,42,812,Dawn Retail,dawnretail@gmail.com,South,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,7,42,813,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,18,42,814,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,29,42,815,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+23,40,42,816,Dawn Retail,dawnretail@gmail.com,East,1,999.00,15in Laptop,Computers,999.00,2025-02-25,2,2025
+5,9,43,817,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,20,43,818,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,31,43,819,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+5,42,43,820,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,9,43,821,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,20,43,822,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,31,43,823,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+15,42,43,824,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,9,43,825,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,20,43,826,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,31,43,827,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025
+25,42,43,828,Futura Inc,futurainc@gmail.com,South,2,258.00,Noise-Cancel Headset,Audio,129.00,2025-01-07,1,2025

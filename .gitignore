@@ -1,0 +1,22 @@
+# python cache
+__pycache__/
+
+#.venv/
+venv/
+
+# logs
+*.log
+
+# env variables
+.env
+
+config/config.json
+
+# data files
+data/processed/*.csv
+
+# vs code config
+.vscode/
+
+hello.py
+

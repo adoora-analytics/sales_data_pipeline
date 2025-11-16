@@ -1,0 +1,433 @@
+customer_id,product_id,date_id,sale_id,customer_name,email,region,quantity,revenue,product_name,category,price,order_date,order_month,order_year
+7,8,1,1,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,19,1,2,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,30,1,3,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,41,1,4,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,8,1,5,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,19,1,6,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,30,1,7,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,41,1,8,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,8,1,9,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,19,1,10,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,30,1,11,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,41,1,12,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+2,11,6,85,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,22,6,86,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,33,6,87,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,44,6,88,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,11,6,89,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,22,6,90,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,33,6,91,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,44,6,92,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,11,6,93,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,22,6,94,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,33,6,95,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,44,6,96,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,11,6,97,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,22,6,98,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,33,6,99,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,44,6,100,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,11,6,101,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,22,6,102,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,33,6,103,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,44,6,104,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,11,6,105,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,22,6,106,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,33,6,107,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,44,6,108,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+9,5,7,109,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,16,7,110,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,27,7,111,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,38,7,112,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,5,7,113,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,16,7,114,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,27,7,115,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,38,7,116,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,5,7,117,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,16,7,118,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,27,7,119,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,38,7,120,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+4,6,8,121,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,17,8,122,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,28,8,123,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,39,8,124,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,6,8,125,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,17,8,126,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,28,8,127,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,39,8,128,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,6,8,129,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,17,8,130,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,28,8,131,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,39,8,132,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,6,8,133,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,17,8,134,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,28,8,135,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,39,8,136,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,6,8,137,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,17,8,138,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,28,8,139,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,39,8,140,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,6,8,141,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,17,8,142,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,28,8,143,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,39,8,144,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+8,2,11,181,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,13,11,182,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,24,11,183,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,35,11,184,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,2,11,185,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,13,11,186,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,24,11,187,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,35,11,188,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,2,11,189,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,13,11,190,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,24,11,191,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,35,11,192,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,2,11,193,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,13,11,194,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,24,11,195,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,35,11,196,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,2,11,197,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,13,11,198,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,24,11,199,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,35,11,200,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,2,11,201,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,13,11,202,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,24,11,203,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,35,11,204,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+7,1,11,205,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,12,11,206,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,23,11,207,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,34,11,208,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,1,11,209,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,12,11,210,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,23,11,211,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,34,11,212,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,1,11,213,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,12,11,214,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,23,11,215,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,34,11,216,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,8,12,217,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,19,12,218,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,30,12,219,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,41,12,220,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,8,12,221,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,19,12,222,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,30,12,223,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,41,12,224,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,8,12,225,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,19,12,226,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,30,12,227,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,41,12,228,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+2,11,17,301,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,22,17,302,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,33,17,303,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,44,17,304,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,11,17,305,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,22,17,306,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,33,17,307,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,44,17,308,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,11,17,309,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,22,17,310,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,33,17,311,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,44,17,312,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,11,17,313,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,22,17,314,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,33,17,315,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,44,17,316,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,11,17,317,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,22,17,318,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,33,17,319,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,44,17,320,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,11,17,321,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,22,17,322,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,33,17,323,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,44,17,324,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+9,5,18,325,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,16,18,326,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,27,18,327,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,38,18,328,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,5,18,329,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,16,18,330,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,27,18,331,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,38,18,332,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,5,18,333,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,16,18,334,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,27,18,335,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,38,18,336,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+4,6,19,337,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,17,19,338,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,28,19,339,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,39,19,340,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,6,19,341,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,17,19,342,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,28,19,343,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,39,19,344,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,6,19,345,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,17,19,346,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,28,19,347,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,39,19,348,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,6,19,349,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,17,19,350,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,28,19,351,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,39,19,352,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,6,19,353,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,17,19,354,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,28,19,355,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,39,19,356,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,6,19,357,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,17,19,358,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,28,19,359,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,39,19,360,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+8,2,22,397,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,13,22,398,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,24,22,399,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,35,22,400,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,2,22,401,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,13,22,402,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,24,22,403,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,35,22,404,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,2,22,405,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,13,22,406,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,24,22,407,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,35,22,408,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,2,22,409,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,13,22,410,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,24,22,411,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,35,22,412,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,2,22,413,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,13,22,414,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,24,22,415,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,35,22,416,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,2,22,417,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,13,22,418,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,24,22,419,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,35,22,420,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+7,1,22,421,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,12,22,422,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,23,22,423,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,34,22,424,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,1,22,425,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,12,22,426,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,23,22,427,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,34,22,428,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,1,22,429,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,12,22,430,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,23,22,431,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,34,22,432,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,8,23,433,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,19,23,434,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,30,23,435,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,41,23,436,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,8,23,437,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,19,23,438,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,30,23,439,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,41,23,440,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,8,23,441,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,19,23,442,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,30,23,443,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,41,23,444,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+2,11,28,517,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,22,28,518,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,33,28,519,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,44,28,520,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,11,28,521,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,22,28,522,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,33,28,523,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,44,28,524,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,11,28,525,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,22,28,526,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,33,28,527,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,44,28,528,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,11,28,529,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,22,28,530,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,33,28,531,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,44,28,532,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,11,28,533,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,22,28,534,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,33,28,535,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,44,28,536,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,11,28,537,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,22,28,538,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,33,28,539,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,44,28,540,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+9,5,29,541,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,16,29,542,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,27,29,543,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,38,29,544,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,5,29,545,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,16,29,546,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,27,29,547,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,38,29,548,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,5,29,549,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,16,29,550,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,27,29,551,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,38,29,552,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+4,6,30,553,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,17,30,554,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,28,30,555,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,39,30,556,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,6,30,557,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,17,30,558,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,28,30,559,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,39,30,560,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,6,30,561,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,17,30,562,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,28,30,563,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,39,30,564,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,6,30,565,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,17,30,566,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,28,30,567,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,39,30,568,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,6,30,569,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,17,30,570,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,28,30,571,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,39,30,572,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,6,30,573,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,17,30,574,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,28,30,575,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,39,30,576,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+8,2,33,613,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,13,33,614,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,24,33,615,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,35,33,616,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,2,33,617,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,13,33,618,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,24,33,619,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,35,33,620,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,2,33,621,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,13,33,622,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,24,33,623,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,35,33,624,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,2,33,625,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,13,33,626,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,24,33,627,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,35,33,628,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,2,33,629,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,13,33,630,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,24,33,631,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,35,33,632,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,2,33,633,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,13,33,634,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,24,33,635,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,35,33,636,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+7,1,33,637,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,12,33,638,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,23,33,639,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,34,33,640,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,1,33,641,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,12,33,642,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,23,33,643,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,34,33,644,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,1,33,645,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,12,33,646,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,23,33,647,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,34,33,648,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,8,34,649,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,19,34,650,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,30,34,651,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+7,41,34,652,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,8,34,653,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,19,34,654,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,30,34,655,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+17,41,34,656,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,8,34,657,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,19,34,658,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,30,34,659,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+27,41,34,660,Alice Ltd,aliceltd@gmail.com,West,2,48.00,Laptop Stand,Accessories,24.00,2024-12-11,12,2024
+2,11,39,733,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,22,39,734,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,33,39,735,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+2,44,39,736,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,11,39,737,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,22,39,738,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,33,39,739,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+3,44,39,740,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,11,39,741,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,22,39,742,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,33,39,743,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+12,44,39,744,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,11,39,745,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,22,39,746,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,33,39,747,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+13,44,39,748,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,11,39,749,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,22,39,750,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,33,39,751,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+22,44,39,752,Dawn Retail,dawnretail@gmail.com,South,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,11,39,753,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,22,39,754,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,33,39,755,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+23,44,39,756,Dawn Retail,dawnretail@gmail.com,East,1,89.00,Mechanical Keyboard,Accessories,89.00,2024-12-02,12,2024
+9,5,40,757,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,16,40,758,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,27,40,759,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+9,38,40,760,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,5,40,761,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,16,40,762,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,27,40,763,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+19,38,40,764,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,5,40,765,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,16,40,766,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,27,40,767,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+29,38,40,768,Epsilon PLC,epsilonplc@gmail.com,North,1,899.00,14in Laptop,Computers,899.00,2024-12-19,12,2024
+4,6,41,769,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,17,41,770,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,28,41,771,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+4,39,41,772,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,6,41,773,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,17,41,774,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,28,41,775,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+6,39,41,776,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,6,41,777,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,17,41,778,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,28,41,779,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+14,39,41,780,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,6,41,781,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,17,41,782,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,28,41,783,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+16,39,41,784,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,6,41,785,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,17,41,786,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,28,41,787,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+24,39,41,788,Charlie & Co,charlie&co@gmail.com,South,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,6,41,789,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,17,41,790,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,28,41,791,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+26,39,41,792,Charlie & Co,charlie&co@gmail.com,North,1,179.00,27in Monitor,Displays,179.00,2024-11-10,11,2024
+8,2,44,829,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,13,44,830,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,24,44,831,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+8,35,44,832,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,2,44,833,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,13,44,834,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,24,44,835,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+10,35,44,836,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,2,44,837,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,13,44,838,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,24,44,839,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+18,35,44,840,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,2,44,841,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,13,44,842,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,24,44,843,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+20,35,44,844,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,2,44,845,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,13,44,846,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,24,44,847,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+28,35,44,848,Beta Corp,betacorp@gmail.com,East,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,2,44,849,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,13,44,850,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,24,44,851,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+30,35,44,852,Beta Corp,betacorp@gmail.com,North,2,39.98,Wireless Mouse,Accessories,19.99,2024-11-03,11,2024
+7,1,44,853,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,12,44,854,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,23,44,855,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+7,34,44,856,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,1,44,857,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,12,44,858,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,23,44,859,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+17,34,44,860,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,1,44,861,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,12,44,862,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,23,44,863,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024
+27,34,44,864,Alice Ltd,aliceltd@gmail.com,West,3,25.50,USB-C Cable,Accessories,8.50,2024-11-03,11,2024

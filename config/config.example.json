@@ -1,0 +1,15 @@
+{
+    "db": {
+        "host": "localhost",
+        "port": 5432,
+        "dbname": "your_db",
+        "user": "your_user",
+        "password": "your_psw"
+    },
+    "paths": {
+        "raw_data": "data/raw/*.csv"
+    },
+    "tables": {
+        "staging": "W4D7_staging"
+    }
+}
