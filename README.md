@@ -63,7 +63,7 @@ sales_data_pipeline/
 └── staging.sql                 # DDL for the staging table
 ├── requirements.txt
 └── README.md
-
+```
 
 ## 📘 How to Use This Project
 
@@ -76,7 +76,7 @@ Follow these steps to run the ETL pipeline and reproduce the results on your own
 ```bash
 git clone https://github.com/YOUR_USERNAME/sales_data_pipeline.git
 cd sales_data_pipeline
-
+```
 
 ---
 
@@ -178,11 +178,11 @@ This will:
 
 Inside the dwh/ folder:
 
-dwh.sql – creates fact + dimension tables
+dwh.sql – creates fact + dimension tables while indexing 
 
 dwh_population.sql – populates dimensions and fact tables
 
-dwh_optimization.sql – adds indexes and performance tuning
+dwh_optimization.sql – performance tuning
 
 
 Run them in order:
@@ -209,4 +209,3 @@ extract.py → transform.py → validate.py → load.py
                                 (fact + dimension tables)
 
 
----
