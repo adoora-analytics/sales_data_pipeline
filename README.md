@@ -15,7 +15,7 @@ This project represents my starting point in data engineering, and I will contin
 - Python-based ETL orchestration (`main.py`)
 - Modular pipeline design (`etl/` and `utils/` packages)
 - Reading and combining multiple CSV files
-- Data cleaning and type conversion with pandas
+- Minimal data cleaning and date conversion with pandas
 - Basic data validation
 - Loading into PostgreSQL using a reusable DB helper
 - Config-driven design (`config.json` + `.env`)
