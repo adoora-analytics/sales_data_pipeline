@@ -29,7 +29,7 @@ This project represents my starting point in data engineering, and I will contin
 sales_data_pipeline/
 │
 ├── config/
-│   ├── config.json             # Local config (ignored) 
+│   ├── config.json             # Local config (ignored in git) 
 │   └── config.example.json     # Template config for others
 │
 ├── data/
@@ -48,7 +48,7 @@ sales_data_pipeline/
 │   └── load.py                 # Loads into PostgreSQL staging table
 │
 ├── logs/
-│   └── pipeline.log            # Log output (ignored in git)
+│   └── pipeline.log            # Log output (ignored)
 │
 │
 ├── utils/
