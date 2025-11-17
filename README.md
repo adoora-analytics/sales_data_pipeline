@@ -108,7 +108,7 @@ DB_PASSWORD=your_postgres_password
 
 Copy the example config file:
 
-config/config.example.json
+config/config.example.json -- rename as config.json
 
 Then edit:
 
