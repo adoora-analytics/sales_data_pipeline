@@ -1,4 +1,4 @@
-# 📊 Sales Data Pipeline – ETL with Python & PostgreSQL
+#  Sales Data Pipeline – ETL with Python & PostgreSQL
 
 This repository contains my **first data engineering project** : a simple but complete ETL (Extract–Transform–Load) pipeline for processing sales data.  
 The pipeline extracts raw CSV files, cleans and transforms them using Python, validates the data, and loads the results into a PostgreSQL **staging table** and an optional **data warehouse** built using SQL scripts.
@@ -8,7 +8,7 @@ This project represents my starting point in data engineering, and I will contin
 
 ---
 
-## 🚀 What This Project Shows
+## What This Project Shows
 
 **Skills demonstrated:**
 
@@ -23,7 +23,7 @@ This project represents my starting point in data engineering, and I will contin
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```text
 sales_data_pipeline/
@@ -65,13 +65,13 @@ sales_data_pipeline/
 └── README.md
 ```
 
-## 📘 How to Use This Project
+##  How to Use This Project
 
 Follow these steps to run the ETL pipeline and reproduce the results on your own machine.
 
 ---
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/sales_data_pipeline.git
@@ -80,21 +80,21 @@ cd sales_data_pipeline
 
 ---
 
-2️⃣ Create and Activate a Virtual Environment (Recommended)
+2️ Create and Activate a Virtual Environment (Recommended)
 # Windows 
 ```bash
 python -m venv .venv
 ```
 ---
 
-3️⃣ Install Required Dependencies
+3️ Install Required Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-4️⃣ Set Up Database Credentials
+4️ Set Up Database Credentials
 
 Create a local .env file in the project root:
 
@@ -104,7 +104,7 @@ DB_PASSWORD=your_postgres_password
 
 ---
 
-5️⃣ Configure the Pipeline
+5️ Configure the Pipeline
 
 Copy the example config file:
 
@@ -123,7 +123,7 @@ Then edit:
 
 ---
 
-6️⃣ Add Raw CSV Files
+6️ Add Raw CSV Files
 
 Place your datasets inside:
 
@@ -136,7 +136,7 @@ Column names should match those expected in transform.py.
 
 ---
 
-7️⃣ Create the Staging Table
+7️ Create the Staging Table
 
 Run this SQL in PostgreSQL:
 ```psql
@@ -145,7 +145,7 @@ psql -U postgres -d your_database -f sql/day7/staging.sql
 
 ---
 
-8️⃣ Run the ETL Pipeline
+8️ Run the ETL Pipeline
 ```bash
 python main.py
 ```
@@ -171,7 +171,7 @@ This will:
 
 ---
 
-🏛 Data Warehouse Layer (Optional)
+ Data Warehouse Layer
 
 Inside the dwh/ folder:
 
@@ -191,7 +191,7 @@ psql -U postgres -d your_database -f dwh/dwh_optimization.sql
 
 ---
 
-🧭 Pipeline Architecture (Simple Diagram)
+ Pipeline Architecture (Simple Diagram)
 
 CSV Files
    │
