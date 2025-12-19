@@ -81,7 +81,7 @@ cd sales_data_pipeline
 ---
 
 2️ Create and Activate a Virtual Environment (Recommended)
-# Windows 
+## For Windows OS
 ```bash
 python -m venv .venv
 ```
