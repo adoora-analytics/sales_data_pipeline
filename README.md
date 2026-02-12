@@ -192,7 +192,7 @@ psql -U postgres -d your_database -f dwh/dwh_optimization.sql
 ---
 
  Pipeline Architecture (Simple Diagram)
-
+```text
 CSV Files
    │
    ▼
@@ -205,5 +205,5 @@ extract.py → transform.py → validate.py → load.py
                                        DWH Scripts
                                 (fact + dimension tables)
 
-
+```
 ---
