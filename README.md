@@ -74,7 +74,7 @@ Follow these steps to run the ETL pipeline and reproduce the results on your own
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales_data_pipeline.git
+git clone https://github.com/adoora-analytics/sales_data_pipeline.git
 cd sales_data_pipeline
 ```
 
@@ -97,9 +97,9 @@ pip install -r requirements.txt
 4. Set Up Database Credentials
 
    Create a local .env file in the project root:
-
+```text
    DB_PASSWORD=your_postgres_password
-
+```
 
 
 ---
@@ -107,8 +107,9 @@ pip install -r requirements.txt
 5. Configure the Pipeline
 
    Copy the example config file:
-
+```text
    config/config.example.json -- rename as config.json
+```
 
    Then edit:
 ```bash
@@ -126,11 +127,11 @@ pip install -r requirements.txt
  6. Add Raw CSV Files
 
     Place your datasets inside:
-
+```text
     data/raw/
             sales_2024.csv
             sales_2025.csv
-
+```
     Column names should match those expected in transform.py.
 
 
