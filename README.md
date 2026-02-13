@@ -71,7 +71,7 @@ Follow these steps to run the ETL pipeline and reproduce the results on your own
 
 ---
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/sales_data_pipeline.git
@@ -96,9 +96,9 @@ pip install -r requirements.txt
 
 4. Set Up Database Credentials
 
-Create a local .env file in the project root:
+   Create a local .env file in the project root:
 
-DB_PASSWORD=your_postgres_password
+   DB_PASSWORD=your_postgres_password
 
 
 
@@ -106,65 +106,65 @@ DB_PASSWORD=your_postgres_password
 
 5. Configure the Pipeline
 
-Copy the example config file:
+   Copy the example config file:
 
-config/config.example.json -- rename as config.json
+   config/config.example.json -- rename as config.json
 
-Then edit:
-
-{
-    "db_name": "your_database",
-    "db_user": "postgres",
-    "db_host": "localhost",
-    "db_port": 5432,
-    "raw_data_path": "data/raw"
-}
-
-
----
-
-6️ Add Raw CSV Files
-
-Place your datasets inside:
-
-data/raw/
-    sales_2024.csv
-    sales_2025.csv
-
-Column names should match those expected in transform.py.
-
-
----
-
-7️ Create the Staging Table
-
-Run this SQL in PostgreSQL:
-```psql
-psql -U postgres -d your_database -f sql/day7/staging.sql
-```
-
----
-
-8️ Run the ETL Pipeline
+   Then edit:
 ```bash
-python main.py
+   {
+      "db_name": "your_database",
+      "db_user": "postgres",
+      "db_host": "localhost",
+      "db_port": 5432,
+      "raw_data_path": "data/raw"
+   }
 ```
 
-This will:
+---
 
-1. Extract raw CSVs
+ 6. Add Raw CSV Files
+
+    Place your datasets inside:
+
+    data/raw/
+            sales_2024.csv
+            sales_2025.csv
+
+    Column names should match those expected in transform.py.
 
 
-2. Clean and transform the data
+---
+
+7. Create the Staging Table
+
+   Run this SQL in PostgreSQL:
+   ```psql
+      psql -U postgres -d your_database -f sql/day7/staging.sql
+    ```
+
+---
+
+8. Run the ETL Pipeline
+   ```bash
+    python main.py
+   ```
+
+    This will:
+
+   - Extract raw CSVs
 
 
-3. Validate column types + nulls + duplicates
+   - Clean and transform the data
 
 
-4. Load everything into w4d7_staging
+   - Validate column types + nulls + duplicates
 
 
-5. Save logs to logs/pipeline.log
+   - Load everything into w4d7_staging
+
+
+   - Save logs to logs/pipeline.log
 
 
 
