@@ -71,7 +71,7 @@ Follow these steps to run the ETL pipeline and reproduce the results on your own
 
 ---
 
-### 1️ Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/sales_data_pipeline.git
@@ -80,21 +80,21 @@ cd sales_data_pipeline
 
 ---
 
-2️ Create and Activate a Virtual Environment (Recommended)
+2. Create and Activate a Virtual Environment (Recommended)
 ## For Windows OS
 ```bash
 python -m venv .venv
 ```
 ---
 
-3️ Install Required Dependencies
+3. Install Required Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
 
-4️ Set Up Database Credentials
+4. Set Up Database Credentials
 
 Create a local .env file in the project root:
 
@@ -104,7 +104,7 @@ DB_PASSWORD=your_postgres_password
 
 ---
 
-5️ Configure the Pipeline
+5. Configure the Pipeline
 
 Copy the example config file:
 
